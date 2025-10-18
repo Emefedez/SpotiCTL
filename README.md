@@ -7,7 +7,7 @@ Simple bash script for macOS that employs Spotify's APIs to control spotify play
 
 (REQUIRES PREMIUM)
 
-> Due to its online nature, pausing may take up to a second to work.
+> Due to its online nature, pausing may take up to a second to pause/unpause.
 
 
 ![Version](https://img.shields.io/badge/version-3.0.4-blue.svg)
