@@ -1,0 +1,182 @@
+[
+  {
+    "BTTLastUpdatedAt" : 1760807075.5377312,
+    "BTTTriggerType" : 0,
+    "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+    "BTTUUID" : "C48110F4-84C4-4D23-A4E2-991D6DDF577E",
+    "BTTAdditionalConfiguration" : "131074",
+    "BTTShortcutScope" : 0,
+    "BTTShortcutKeyboardType" : 2302,
+    "BTTTriggerOnDown" : 1,
+    "BTTLayoutIndependentChar" : "觑",
+    "BTTShortcutKeyCode" : 1016,
+    "BTTShortcutAdvancedModifierKeys" : "131074",
+    "BTTShortcutModifierKeys" : 131072,
+    "BTTOrder" : 8,
+    "BTTAutoAdaptToKeyboardLayout" : 0,
+    "BTTActionsToExecute" : [
+      {
+        "BTTLastUpdatedAt" : 1760796024.309603,
+        "BTTTriggerParentUUID" : "C48110F4-84C4-4D23-A4E2-991D6DDF577E",
+        "BTTIsPureAction" : true,
+        "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+        "BTTUUID" : "C9F009DD-C627-4611-8848-9C454BBD0771",
+        "BTTPredefinedActionType" : 249,
+        "BTTPredefinedActionName" : "Show Floating WebView or HTML Menu",
+        "BTTActionURLToLoad" : "",
+        "BTTActionFloatingHTMLName" : "",
+        "BTTActionFloatingHTMLConfig" : "{\"BTTCloseOnOutsideClick\":false,\"BTTWebviewClickThrough\":false,\"BTTWebviewDragEverywhereCMD\":false,\"BTTWebviewResizable\":false,\"BTTWebviewDragEverywhere\":false,\"BTTWebViewManualWindowLevel\":0,\"BTTDrawTitleBezel\":false,\"BTTShowAboveDesktop\":0,\"BTTDoNotCache\":false,\"BTTWebViewPreload\":false,\"BTTWebViewShowDockIcon\":0,\"BTTCloseOnBrowserOpen\":false,\"BTTCenterOnOpen\":false,\"BTTTitlebarStyle\":4,\"BTTSize\":\"{200, 200}\",\"BTTWebviewDoNotAutofocus\":false,\"BTTRelativeTo\":4,\"BTTUseFixedPosition\":true,\"BTTShowButtons\":false,\"BTTWebviewUpdateFrame\":false,\"BTTWebViewKeepVisibleAndRefreshINT\":1,\"BTTUseWhiteBackground\":false,\"BTTFrameOrigin\":\"{0, 740}\"}",
+        "BTTShortcutKeyboardType" : 0,
+        "BTTShortcutKeyCode" : -1,
+        "BTTOrder" : 0,
+        "BTTAutoAdaptToKeyboardLayout" : 0,
+        "BTTFiles" : [
+          {
+            "BTTFileContent" : "PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPHN0eWxlPgogICAgYm9keSB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICAgICAgbWFyZ2luOiAwOwogICAgICAgIGZvbnQtZmFtaWx5OiAnMHhQcm90byBOZXJkIEZvbnQnLCAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOwogICAgfQoKICAgIEBrZXlmcmFtZXMgZmFkZUluIHsKICAgICAgICBmcm9tIHsgb3BhY2l0eTogMDsgdHJhbnNmb3JtOiBzY2FsZSgwLjkpOyB9CiAgICAgICAgdG8geyBvcGFjaXR5OiAxOyB0cmFuc2Zvcm06IHNjYWxlKDEpOyB9CiAgICB9CgogICAgLnBvcHVwLWNvbnRhaW5lciB7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgd2lkdGg6IDE0MHB4OwogICAgICAgIGhlaWdodDogMTQwcHg7CiAgICAgICAgCiAgICAgICAgLyogVFUgVE9OQUxJREFELCBBSE9SQSBNw4FTIFPDk0xJREEgUEFSQSBNRUpPUiBMRUNUVVJBICovCiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg1NiwgMzgsIDcwLCAwLjg1KTsKICAgICAgICAKICAgICAgICAvKiA9PT0gRUZFQ1RPIERFIERFU0VORk9RVUUgRUxJTUlOQURPID09PSAqLwogICAgICAgIC8qIFlhIG5vIGVzdMOhbiBhcXXDrSBsYXMgbMOtbmVhcyBkZSBiYWNrZHJvcC1maWx0ZXIgKi8KICAgICAgICAKICAgICAgICBib3JkZXItcmFkaXVzOiAzNXB4OwogICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4xKTsKICAgICAgICBib3gtc2hhZG93OiAwIDhweCAzMnB4IDAgcmdiYSgwLCAwLCAwLCAwLjM1KTsKICAgICAgICBhbmltYXRpb246IGZhZGVJbiAwLjRzIGN1YmljLWJlemllcigwLjI1LCAxLCAwLjUsIDEpOwogICAgfQoKICAgIC5pY29uIHsKICAgICAgICBmb250LXNpemU6IDYwcHg7CiAgICAgICAgY29sb3I6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC45KTsKICAgICAgICBsaW5lLWhlaWdodDogMTsKICAgIH0KCiAgICAubGFiZWwgewogICAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgIGNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuOCk7CiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICAgICAgICBsZXR0ZXItc3BhY2luZzogMXB4OwogICAgfQo8L3N0eWxlPgoKPHNjcmlwdD4KICAgIC8vIFNDUklQVCBTSU1QTElGSUNBRE86IFNvbG8gYXBhcmVjZSB5IHNlIGNpZXJyYS4KICAgIGZ1bmN0aW9uIEJUVEluaXRpYWxpemUoKSB7CiAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbigpIHsKICAgICAgICAgICAgY2FsbEJUVCgndHJpZ2dlcl9uYW1lZCcsIHt0cmlnZ2VyX25hbWU6ICcnLCBjbG9zZUZsb2F0aW5nV2ViVmlldzoxfSk7CiAgICAgICAgfSwgMjUwMCk7CiAgICB9Cjwvc2NyaXB0Pgo8L2hlYWQ+Cgo8Ym9keT4KICAgIDxkaXYgY2xhc3M9InBvcHVwLWNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0iaWNvbiI+4o+v77iPPC9kaXY+IAogICAgICAgIDxkaXYgY2xhc3M9ImxhYmVsIj5QbGF5L1BhdXNhPC9kaXY+CiAgICA8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+",
+            "BTTFileOther" : "html"
+          }
+        ]
+      },
+      {
+        "BTTLastUpdatedAt" : 1760794781.140871,
+        "BTTTriggerParentUUID" : "C48110F4-84C4-4D23-A4E2-991D6DDF577E",
+        "BTTIsPureAction" : true,
+        "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+        "BTTUUID" : "F8E024B9-332E-496B-ABEF-C3E99D4599F2",
+        "BTTPredefinedActionType" : 206,
+        "BTTPredefinedActionName" : "Execute Shell Script  or  Task",
+        "BTTShellTaskActionScript" : "\/Users\/mateo\/Documents\/scriptspersonalizados\/spotictl.sh pause",
+        "BTTShellTaskIdentifier" : "",
+        "BTTShellTaskActionConfig" : "\/bin\/bash:::-c -l:::-:::",
+        "BTTShortcutKeyboardType" : 0,
+        "BTTShortcutKeyCode" : -1,
+        "BTTOrder" : 1,
+        "BTTAutoAdaptToKeyboardLayout" : 0
+      }
+    ],
+    "BTTTriggerConfig" : {
+      "BTTHUDText" : "⏯️",
+      "BTTHUDDetailText" : "spotictl"
+    }
+  },
+  {
+    "BTTLastUpdatedAt" : 1760807077.964088,
+    "BTTTriggerType" : 0,
+    "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+    "BTTUUID" : "7DC8075F-9910-425D-8E68-CD4A123CAFDC",
+    "BTTAdditionalConfiguration" : "131074",
+    "BTTShortcutScope" : 0,
+    "BTTShortcutKeyboardType" : 2302,
+    "BTTTriggerOnDown" : 1,
+    "BTTLayoutIndependentChar" : "觑",
+    "BTTShortcutKeyCode" : 1020,
+    "BTTShortcutAdvancedModifierKeys" : "131074",
+    "BTTShortcutModifierKeys" : 131072,
+    "BTTOrder" : 9,
+    "BTTAutoAdaptToKeyboardLayout" : 0,
+    "BTTActionsToExecute" : [
+      {
+        "BTTLastUpdatedAt" : 1760796066.979146,
+        "BTTTriggerParentUUID" : "7DC8075F-9910-425D-8E68-CD4A123CAFDC",
+        "BTTIsPureAction" : true,
+        "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+        "BTTUUID" : "8411CEB0-7AF6-45F9-A5AC-39288713A709",
+        "BTTPredefinedActionType" : 249,
+        "BTTPredefinedActionName" : "Show Floating WebView or HTML Menu",
+        "BTTActionURLToLoad" : "",
+        "BTTActionFloatingHTMLName" : "",
+        "BTTActionFloatingHTMLConfig" : "{\"BTTCloseOnOutsideClick\":false,\"BTTWebviewClickThrough\":false,\"BTTWebviewDragEverywhereCMD\":false,\"BTTWebviewResizable\":false,\"BTTWebviewDragEverywhere\":false,\"BTTWebViewManualWindowLevel\":0,\"BTTDrawTitleBezel\":false,\"BTTShowAboveDesktop\":0,\"BTTDoNotCache\":false,\"BTTWebViewPreload\":false,\"BTTWebViewShowDockIcon\":0,\"BTTCloseOnBrowserOpen\":false,\"BTTCenterOnOpen\":false,\"BTTTitlebarStyle\":4,\"BTTSize\":\"{200, 200}\",\"BTTWebviewDoNotAutofocus\":false,\"BTTRelativeTo\":4,\"BTTUseFixedPosition\":true,\"BTTShowButtons\":false,\"BTTWebviewUpdateFrame\":false,\"BTTWebViewKeepVisibleAndRefreshINT\":1,\"BTTUseWhiteBackground\":false,\"BTTFrameOrigin\":\"{0, 740}\"}",
+        "BTTShortcutKeyboardType" : 0,
+        "BTTShortcutKeyCode" : -1,
+        "BTTOrder" : 0,
+        "BTTAutoAdaptToKeyboardLayout" : 0,
+        "BTTFiles" : [
+          {
+            "BTTFileContent" : "PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPHN0eWxlPgogICAgYm9keSB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICAgICAgbWFyZ2luOiAwOwogICAgICAgIGZvbnQtZmFtaWx5OiAnMHhQcm90byBOZXJkIEZvbnQnLCAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOwogICAgfQoKICAgIEBrZXlmcmFtZXMgZmFkZUluIHsKICAgICAgICBmcm9tIHsgb3BhY2l0eTogMDsgdHJhbnNmb3JtOiBzY2FsZSgwLjkpOyB9CiAgICAgICAgdG8geyBvcGFjaXR5OiAxOyB0cmFuc2Zvcm06IHNjYWxlKDEpOyB9CiAgICB9CgogICAgLnBvcHVwLWNvbnRhaW5lciB7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgd2lkdGg6IDE0MHB4OwogICAgICAgIGhlaWdodDogMTQwcHg7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg1NiwgMzgsIDcwLCAwLjg1KTsKICAgICAgICBib3JkZXItcmFkaXVzOiAzNXB4OwogICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4xKTsKICAgICAgICBib3gtc2hhZG93OiAwIDhweCAzMnB4IDAgcmdiYSgwLCAwLCAwLCAwLjM1KTsKICAgICAgICBhbmltYXRpb246IGZhZGVJbiAwLjRzIGN1YmljLWJlemllcigwLjI1LCAxLCAwLjUsIDEpOwogICAgfQoKICAgIC5pY29uIHsKICAgICAgICBmb250LXNpemU6IDYwcHg7CiAgICAgICAgY29sb3I6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC45KTsKICAgICAgICBsaW5lLWhlaWdodDogMTsKICAgIH0KCiAgICAubGFiZWwgewogICAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgIGNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuOCk7CiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICAgICAgICBsZXR0ZXItc3BhY2luZzogMXB4OwogICAgfQo8L3N0eWxlPgo8c2NyaXB0PgogICAgZnVuY3Rpb24gQlRUSW5pdGlhbGl6ZSgpIHsKICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjYWxsQlRUKCd0cmlnZ2VyX25hbWVkJywge3RyaWdnZXJfbmFtZTogJycsIGNsb3NlRmxvYXRpbmdXZWJWaWV3OjF9KTsKICAgICAgICB9LCAyNTAwKTsKICAgIH0KPC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHk+CiAgICA8ZGl2IGNsYXNzPSJwb3B1cC1jb250YWluZXIiPgogICAgICAgIDxkaXYgY2xhc3M9Imljb24iPuKPru+4jzwvZGl2PiAKICAgICAgICA8ZGl2IGNsYXNzPSJsYWJlbCI+QW50ZXJpb3I8L2Rpdj4KICAgIDwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4=",
+            "BTTFileOther" : "html"
+          }
+        ]
+      },
+      {
+        "BTTLastUpdatedAt" : 1760796055.8919001,
+        "BTTTriggerParentUUID" : "7DC8075F-9910-425D-8E68-CD4A123CAFDC",
+        "BTTIsPureAction" : true,
+        "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+        "BTTUUID" : "BE78DEC4-824D-437A-969E-2308D9ECA033",
+        "BTTPredefinedActionType" : 206,
+        "BTTPredefinedActionName" : "Execute Shell Script  or  Task",
+        "BTTShellTaskActionScript" : "\/Users\/mateo\/Documents\/scriptspersonalizados\/spotictl.sh prev",
+        "BTTShellTaskIdentifier" : "",
+        "BTTShellTaskActionConfig" : "\/bin\/bash:::-c -l:::-:::",
+        "BTTShortcutKeyboardType" : 0,
+        "BTTShortcutKeyCode" : -1,
+        "BTTOrder" : 1,
+        "BTTAutoAdaptToKeyboardLayout" : 0
+      }
+    ],
+    "BTTTriggerConfig" : {
+      "BTTHUDText" : "⏯️",
+      "BTTHUDDetailText" : "spotictl"
+    }
+  },
+  {
+    "BTTLastUpdatedAt" : 1760807080.3725538,
+    "BTTTriggerType" : 0,
+    "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+    "BTTUUID" : "C84669EB-A086-43BE-8488-ABFCEEC15A36",
+    "BTTAdditionalConfiguration" : "131074",
+    "BTTShortcutScope" : 0,
+    "BTTShortcutKeyboardType" : 2302,
+    "BTTTriggerOnDown" : 1,
+    "BTTLayoutIndependentChar" : "觑",
+    "BTTShortcutKeyCode" : 1019,
+    "BTTShortcutAdvancedModifierKeys" : "131074",
+    "BTTShortcutModifierKeys" : 131072,
+    "BTTOrder" : 10,
+    "BTTAutoAdaptToKeyboardLayout" : 0,
+    "BTTActionsToExecute" : [
+      {
+        "BTTLastUpdatedAt" : 1760796084.2255659,
+        "BTTTriggerParentUUID" : "C84669EB-A086-43BE-8488-ABFCEEC15A36",
+        "BTTIsPureAction" : true,
+        "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+        "BTTUUID" : "766039C2-83A7-4831-8B03-E7E7EEC1F120",
+        "BTTPredefinedActionType" : 249,
+        "BTTPredefinedActionName" : "Show Floating WebView or HTML Menu",
+        "BTTActionURLToLoad" : "",
+        "BTTActionFloatingHTMLName" : "",
+        "BTTActionFloatingHTMLConfig" : "{\"BTTCloseOnOutsideClick\":false,\"BTTWebviewClickThrough\":false,\"BTTWebviewDragEverywhereCMD\":false,\"BTTWebviewResizable\":false,\"BTTWebviewDragEverywhere\":false,\"BTTWebViewManualWindowLevel\":0,\"BTTDrawTitleBezel\":false,\"BTTShowAboveDesktop\":0,\"BTTDoNotCache\":false,\"BTTWebViewPreload\":false,\"BTTWebViewShowDockIcon\":0,\"BTTCloseOnBrowserOpen\":false,\"BTTCenterOnOpen\":false,\"BTTTitlebarStyle\":4,\"BTTSize\":\"{200, 200}\",\"BTTWebviewDoNotAutofocus\":false,\"BTTRelativeTo\":4,\"BTTUseFixedPosition\":true,\"BTTShowButtons\":false,\"BTTWebviewUpdateFrame\":false,\"BTTWebViewKeepVisibleAndRefreshINT\":1,\"BTTUseWhiteBackground\":false,\"BTTFrameOrigin\":\"{0, 740}\"}",
+        "BTTShortcutKeyboardType" : 0,
+        "BTTShortcutKeyCode" : -1,
+        "BTTOrder" : 0,
+        "BTTAutoAdaptToKeyboardLayout" : 0,
+        "BTTFiles" : [
+          {
+            "BTTFileContent" : "PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPHN0eWxlPgogICAgYm9keSB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICAgICAgbWFyZ2luOiAwOwogICAgICAgIGZvbnQtZmFtaWx5OiAnMHhQcm90byBOZXJkIEZvbnQnLCAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOwogICAgfQoKICAgIEBrZXlmcmFtZXMgZmFkZUluIHsKICAgICAgICBmcm9tIHsgb3BhY2l0eTogMDsgdHJhbnNmb3JtOiBzY2FsZSgwLjkpOyB9CiAgICAgICAgdG8geyBvcGFjaXR5OiAxOyB0cmFuc2Zvcm06IHNjYWxlKDEpOyB9CiAgICB9CgogICAgLnBvcHVwLWNvbnRhaW5lciB7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgd2lkdGg6IDE0MHB4OwogICAgICAgIGhlaWdodDogMTQwcHg7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg1NiwgMzgsIDcwLCAwLjg1KTsKICAgICAgICBib3JkZXItcmFkaXVzOiAzNXB4OwogICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4xKTsKICAgICAgICBib3gtc2hhZG93OiAwIDhweCAzMnB4IDAgcmdiYSgwLCAwLCAwLCAwLjM1KTsKICAgICAgICBhbmltYXRpb246IGZhZGVJbiAwLjRzIGN1YmljLWJlemllcigwLjI1LCAxLCAwLjUsIDEpOwogICAgfQoKICAgIC5pY29uIHsKICAgICAgICBmb250LXNpemU6IDYwcHg7CiAgICAgICAgY29sb3I6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC45KTsKICAgICAgICBsaW5lLWhlaWdodDogMTsKICAgIH0KCiAgICAubGFiZWwgewogICAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgIGNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuOCk7CiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICAgICAgICBsZXR0ZXItc3BhY2luZzogMXB4OwogICAgfQo8L3N0eWxlPgo8c2NyaXB0PgogICAgZnVuY3Rpb24gQlRUSW5pdGlhbGl6ZSgpIHsKICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjYWxsQlRUKCd0cmlnZ2VyX25hbWVkJywge3RyaWdnZXJfbmFtZTogJycsIGNsb3NlRmxvYXRpbmdXZWJWaWV3OjF9KTsKICAgICAgICB9LCAyNTAwKTsKICAgIH0KPC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHk+CiAgICA8ZGl2IGNsYXNzPSJwb3B1cC1jb250YWluZXIiPgogICAgICAgIDxkaXYgY2xhc3M9Imljb24iPuKPre+4jzwvZGl2PiAKICAgICAgICA8ZGl2IGNsYXNzPSJsYWJlbCI+U2lndWllbnRlPC9kaXY+CiAgICA8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+",
+            "BTTFileOther" : "html"
+          }
+        ]
+      },
+      {
+        "BTTLastUpdatedAt" : 1760796089.345057,
+        "BTTTriggerParentUUID" : "C84669EB-A086-43BE-8488-ABFCEEC15A36",
+        "BTTIsPureAction" : true,
+        "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+        "BTTUUID" : "FC44F2C4-81D6-460F-8383-A379203415EF",
+        "BTTPredefinedActionType" : 206,
+        "BTTPredefinedActionName" : "Execute Shell Script  or  Task",
+        "BTTShellTaskActionScript" : "\/Users\/mateo\/Documents\/scriptspersonalizados\/spotictl.sh next",
+        "BTTShellTaskIdentifier" : "",
+        "BTTShellTaskActionConfig" : "\/bin\/bash:::-c -l:::-:::",
+        "BTTShortcutKeyboardType" : 0,
+        "BTTShortcutKeyCode" : -1,
+        "BTTOrder" : 1,
+        "BTTAutoAdaptToKeyboardLayout" : 0
+      }
+    ],
+    "BTTTriggerConfig" : {
+      "BTTHUDText" : "⏯️",
+      "BTTHUDDetailText" : "spotictl"
+    }
+  }
+]
