@@ -94,7 +94,9 @@ This is a **one-time process**.
       [https://accounts.spotify.com/api/token](https://accounts.spotify.com/api/token)
     ```
 
-7.  The response will be a JSON object. Find the value for **`"refresh_token"`** and **copy it**. This is the token you need!
+    Tou may. eed to replace with  `http://localhost:8888/callback` with `http://127.0.0.1:8888/callback`
+
+8.  The response will be a JSON object. Find the value for **`"refresh_token"`** and **copy it**. This is the token you need!
 
 ### Step 4: Edit the Script
 
