@@ -3,7 +3,7 @@
 
 # spotictl.sh - Spotify Control from your Terminal
 
-Simple bash script for macOS that employs Spotify's APIs to control spotify players with your keyboard (works best with librespot + spotify-qt).
+Simple bash script (designed with a BTT GUI in mind) for macOS that employs Spotify's APIs to control spotify players with your keyboard (works best with librespot + spotify-qt).
 
 (REQUIRES PREMIUM)
 
